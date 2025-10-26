@@ -10,3 +10,4 @@
 ## About CC restaurant application  
 
 this is a test project for CC's Information Management 2. Stay tuned for more!
+
